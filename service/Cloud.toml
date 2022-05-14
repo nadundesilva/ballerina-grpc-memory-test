@@ -1,0 +1,3 @@
+[container.image]
+name="memory_test_svc"
+tag="latest"
